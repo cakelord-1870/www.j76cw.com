@@ -1,0 +1,3030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.j76cw.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.j76cw.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.j76cw.com/collections/j76-bamboo-wear.atom"/>
+  <title>J76 Bamboo Wear</title>
+  <updated>2021-07-19T17:22:20-07:00</updated>
+  <author>
+    <name>J76 Bamboo Wear</name>
+  </author>
+  <entry>
+    <id>https://www.j76cw.com/products/6593532985423</id>
+    <published>2021-07-19T17:22:20-07:00</published>
+    <updated>2021-07-19T17:22:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/lynn-bamboo-zip-up-hoodie"/>
+    <title>LYNN BAMBOO CROPPED ZIP-UP HOODIE</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/20210814-DSC04235.jpg?v=1629533530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"></span>Lynn is a cropped zip-up hoodie that can be worn as a cover up to the gym or as casual wear. Zipper front and kangaroo pockets. <br></p>
+<div class="product-single__description rte" itemprop="description">
+<p style="text-align: left;">MADE IN VANCOUVER, B.C. CANADA</p>
+<b>Product Detail:</b>
+</div>
+<div class="product-single__description rte" itemprop="description">Zip up hoodie. Zip-up. Long sleeves. Relaxed fit.</div>
+<div class="product-single__description rte" itemprop="description">
+<br>
+<p style="text-align: left;"><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span><br><span></span></p>
+<p style="text-align: left;"><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Bracing Blue / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Bblue-Small</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Bracing Blue / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Bblue-Medium</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Bracing Blue / Large</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Bblue-Large</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Oak / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Oak-Small</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Oak / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Oak-Medium</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Oak / Large</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Oak-Large</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Sakura / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Sakura-Small</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Sakura / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Sakura-Medium</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Sakura / Large</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Sakura-Large</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6588825534543</id>
+    <published>2021-07-12T13:34:11-07:00</published>
+    <updated>2021-07-12T13:34:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/cindy-bamboo-top-extended-length"/>
+    <title>CINDY BAMBOO TOP-Extended Length</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/20210814-DSC04299.jpg?v=1629534106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cindy is an elegant long sleeve top with feminine touches like a wider neckline, longer cuffed sleeves, and banded bottom. Lovely draped fit. <br></p>
+<p>Model is 175cm/5.74ft with a 27" waist, wearing a size Small.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><b>Product Detail</b><br>Long sleeve. Wide round neck. Cuffed sleeve. Banded bottom. Draped fit. </p>
+<p><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span><br><span></span></p>
+<span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Black / Extra Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Black-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Black-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Black-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Black-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Black-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Oak / Extra Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Oak-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Oak / Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Oak-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Oak / Medium</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Oak-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Oak / Large</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Oak-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Oak / Extra Large</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Oak-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Bracing Blue / Extra Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Bracing Blue-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Bracing Blue / Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Bracing Blue-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Bracing Blue / Medium</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Bracing Blue-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Bracing Blue / Large</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Bracing Blue-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6588825534543</id>
+      <title>Bracing Blue / Extra Large</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>R324A-Cindy-Bracing Blue-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6567157858383</id>
+    <published>2021-05-12T16:29:37-07:00</published>
+    <updated>2021-05-12T16:29:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/may-bamboo-fleece-jogger-ultra-thick-long"/>
+    <title>MAY BAMBOO FLEECE JOGGER(ULTRA-THICK)</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/May-Black_1.jpg?v=1621973465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">May is made to to lounge and travels well whether it be from the studio to the street. Tapered leg design with convenient side pockets and elastic waistband plus drawstring waist. Full length to the ankle. Cuffed ankle makes the pant leg length adjustable. Wear it high or low for different looks. Relaxed fit. <br></p>
+<p style="text-align: left;">Model is 5'5/165cm with a 27" waist, inseam 27.5" wearing a size S.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p style="text-align: left;"><strong>Product Detail:</strong><br></p>
+<p>Classic sweat pants. Full length. Dual front pockets. Wide waistband. Lined with bamboo fleece material and thicker than bamboo cotton. Relaxed fit. Inseam approximately 28.5 inches</p>
+<p><b></b><b data-mce-fragment="1">Rayon from Bamboo, Cotton and Spandex</b><br><span style="line-height: 1.5;">Soft and luxurious </span><br>Breathable fabric <br>Naturally antibacterial <br>Moisture-wicking <br>Cling and pill resistant <br>Long lasting wear</p>
+<p style="text-align: left;">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>bamboo clothing</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>comfy</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>drawstring</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>fleece lining</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gym wear</s:tag>
+    <s:tag>high waist</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>medium rise</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pocket</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>relaxed fit</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:tag>yoga pant</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567157858383</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021B-May-Black-S</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567157858383</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021B-May-Black-M</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567157858383</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021B-May-Black-L</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567157858383</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021B-May-Black-XL</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6567152943183</id>
+    <published>2021-05-12T15:38:51-07:00</published>
+    <updated>2021-05-12T15:38:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/elliot-bamboo-fleece-pant-ultra-thick-long"/>
+    <title>ELLIOT BAMBOO FLEECE JOGGER(ULTRA-THICK &amp; EXTENDED LENGTH)</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Elliot-Black_1.jpg?v=1623366599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">Elliot the longer version of Amy. Classic sweat pant style. Longer than the Amy and elasticized cuff bottom. Lined with luxurious bamboo fleece. Drawstring waist and dual pockets. Perfect for cooler months. Warm and cozy for indoors and outdoors. <br></p>
+<p style="text-align: left;">Model is 5'5/165cm with a 27" waist, inseam 30" wearing a size S.</p>
+<p style="text-align: left;">Made in Vancouver, B.C. Canada</p>
+<p><strong>Product Detail:</strong> <br>Classic sweat pants. Full length. Dual front pockets. Wide waistband. Lined with bamboo fleece and thicker material than bamboo cotton. Relaxed fit. Inseam approximately 30~32.5 inches</p>
+<p><b></b><b data-mce-fragment="1">Rayon from Bamboo, Cotton and Spandex</b><br><span style="line-height: 1.5;">Soft and luxurious </span><br>Breathable fabric <br>Naturally antibacterial <br>Moisture-wicking <br>Cling and pill resistant <br>Long lasting wear</p>
+<p style="text-align: left;">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>bamboo clothing</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>comfy</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>drawstring</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>fleece lining</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gym wear</s:tag>
+    <s:tag>high waist</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>medium rise</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pocket</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>relaxed fit</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:tag>yoga pant</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567152943183</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2019N-Elliot-Black-S</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567152943183</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2019N-Elliot-Black-M</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567152943183</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2019N-Elliot-Black-L</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567152943183</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2019N-Elliot-Black-XL</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567152943183</id>
+      <title>Heather Charcoal / Small</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2019N-Elliot-Heather Charcoal-S</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567152943183</id>
+      <title>Heather Charcoal / Medium</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2019N-Elliot-Heather Charcoal-M</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567152943183</id>
+      <title>Heather Charcoal / Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2019N-Elliot-Heather Charcoal-L</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567152943183</id>
+      <title>Heather Charcoal / Extra Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2019N-Elliot-Heather Charcoal-XL</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6562738274383</id>
+    <published>2021-05-03T16:11:59-07:00</published>
+    <updated>2021-05-03T16:11:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/sydney-bamboo-skirt"/>
+    <title>SYDNEY BAMBOO SKIRT</title>
+    <s:type>Bamboo Skirt</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Photo2021-05-03_164857.jpg?v=1623175575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Skirt<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Sydney is as refreshing remake of the popular Breeze skirt. So soft and feminine. Very comfortable to wear with its draped skirt and simple to co-ordinate for a perfect summer outfit. <br></p>
+<p data-mce-fragment="1">Model is 5'6/170cm with a 27" waist, wearing a size Small.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p data-mce-fragment="1"><strong>Product Detail:</strong><br> Flowing style. Draped. Mid-calf hem line. A-Line shape. Medium to high rise. Elastic waist band. <br> <br> <strong>Rayon from Bamboo, Cotton and Spandex</strong><br> Soft and luxurious<br> Breathable fabric<br> Naturally antibacterial<br> Moisture-wicking<br> Cling and pill resistant<br> Long lasting wear<br> <br> <br> [Best washed inside out in cold water. Hang dry or tumble dry on low setting.]<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activewear</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Mocha / Small</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Mocha-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Mocha / Medium</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Mocha-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Mocha / Large</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Mocha-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Mocha / Extra Large</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Mocha-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Black-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Black-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Black-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Black-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Oak / Small</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Oak-S</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Oak / Medium</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Oak-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Oak / Large</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Oak-L</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6562738274383</id>
+      <title>Oak / Extra Large</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>J-2104-Sydney-Oak-XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6555851325519</id>
+    <published>2021-04-19T17:33:11-07:00</published>
+    <updated>2021-04-19T17:33:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/cameron-bamboo-fleece-sweatpants"/>
+    <title>CAMERON BAMBOO FLEECE SWEATPANTS(ULTRA-THICK)</title>
+    <s:type>Pants</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Cameron-HeatherCharcoal_1.jpg?v=1626736180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Cameron is a traditional wide leg sweatpants. Convenient dual front pockets and comfortable wide waistband. Made with thicker bamboo fleece and ideal for leisure or outdoor wear with a relaxed fit. <br></p>
+<p data-mce-fragment="1">Model is 5'5/165cm with a 27" waist, inseam 29" wearing a size Medium.</p>
+<p data-mce-fragment="1">Made in Vancouver, B.C. Canada</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Product Detail:</strong><br data-mce-fragment="1">Classic sweat pants. Full length. Dual front pockets. Wide waistband. Lined with bamboo fleece and thicker material than bamboo cotton. Relaxed fit. Inseam approximately 29 inches</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1"></b><b data-mce-fragment="1">Rayon from Bamboo, Cotton and Spandex</b><br data-mce-fragment="1"><span data-mce-fragment="1">Soft and luxurious </span><br data-mce-fragment="1">Breathable fabric<br data-mce-fragment="1">Naturally antibacterial<br data-mce-fragment="1">Moisture-wicking<br data-mce-fragment="1">Cling and pill resistant<br data-mce-fragment="1">Long lasting wear</p>
+<p data-mce-fragment="1">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6555851325519</id>
+      <title>Charcoal / Small</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021-Cameron-Heather Charcoal-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6555851325519</id>
+      <title>Charcoal / Medium</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021A-Cameron-Heather Charcoal-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6555851325519</id>
+      <title>Charcoal / Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021A-Cameron-Heather Charcoal-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6555851325519</id>
+      <title>Charcoal / Extra Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021A-Cameron-Heather Charcoal-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6555851325519</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021A-Cameron-Black-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6555851325519</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021A-Cameron-Black-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6555851325519</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021A-Cameron-Black-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6555851325519</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>J2021A-Cameron-Black-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6553303908431</id>
+    <published>2021-04-10T13:26:27-07:00</published>
+    <updated>2021-04-10T13:26:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/irene-padded-cami-top"/>
+    <title>IRENE PADDED CAMI BAMBOO TANK</title>
+    <s:type>Tank top</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Irene-Purple_2.jpg?v=1619098900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Tank top<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Irene is a sweet camisole tank. Cami style so shorter in length above the waist. Ideal for layering with built-in inner sports bra. Comfort fit. <br></p>
+<p data-mce-fragment="1">The model is 170cm with a 28" waist, wearing a size Medium.</p>
+<p data-mce-fragment="1">MADE IN VANCOUVER, B.C. CANADA<br></p>
+<p><b data-mce-fragment="1">Product Detail:</b><br data-mce-fragment="1"><span data-mce-fragment="1">Short length. Built-in inner sports bra. Bra pad inserts.</span></p>
+<p><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span><br><span></span></p>
+<p><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gym wear</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Purple / Small</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Purple-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Purple / Medium</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Purple-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Purple / Large</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Purple-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Purple / Extra Large</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Purple-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Sage / Small</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Sage-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Sage / Medium</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Sage-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Sage / Large</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Sage-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Sage / Extra Large</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Sage-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Black-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Black-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6553303908431</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>2103-Irene-Black-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6545820057679</id>
+    <published>2021-03-22T12:26:47-07:00</published>
+    <updated>2021-03-22T12:26:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/lucia-bamboo-top"/>
+    <title>LUCIA BAMBOO TOP (Reversible)</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Lucia-Turqoise_6.jpg?v=1619703419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Lucia is updated and better than ever before. Perfect for summer with its sweet round neck and elegant bat sleeves. Tapered bottom and reversible fit. Pair with any skirt or shorts for warm days and even hotter nights. <br></p>
+<p data-mce-fragment="1">Model is 170cm/5.58ft with a 28" waist, wearing a size Medium.</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Product Detail:</b><br data-mce-fragment="1"><span data-mce-fragment="1">Round neck. Bat sleeves. Tapered bottom. Reversible. </span><br data-mce-fragment="1"><b data-mce-fragment="1"></b></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Rayon from Bamboo, Cotton and Spandex</b><br data-mce-fragment="1"><span data-mce-fragment="1">Soft and luxurious</span><br data-mce-fragment="1"><span data-mce-fragment="1">Breathable fabric</span><br data-mce-fragment="1"><span data-mce-fragment="1">Naturally antibacterial</span><br data-mce-fragment="1"><span data-mce-fragment="1">Moisture-wicking</span><br data-mce-fragment="1"><span data-mce-fragment="1">Cling and pill-resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">Long-lasting wear</span></p>
+<p data-mce-fragment="1">[Best washed inside out in cold water. Hang dry or tumble dry on a low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Turqoise / Small</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Turqoise-S</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Turqoise / Medium</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Turqoise-M</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Turqoise / Large</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Turqoise-L</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Turqoise / Extra Large</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Turqoise-XL</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Black-S</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Black-M</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Black-L</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Black-XL</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Heather Charcoal / Small</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Heather Charcoal-S</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Heather Charcoal / Medium</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Heather Charcoal-M</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Heather Charcoal / Large</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Heather Charcoal-L</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6545820057679</id>
+      <title>Heather Charcoal / Extra Large</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>J912-Lucia-Heather Charcoal-XL</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6538556637263</id>
+    <published>2021-03-05T15:53:53-08:00</published>
+    <updated>2021-03-05T15:53:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/julia-bamboo-cardigan-new-version"/>
+    <title>JULIA BAMBOO CARDIGAN</title>
+    <s:type>Cardigan</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Julia-HeatherCharcoal_4.jpg?v=1626905800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Cardigan<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Julia is redesigned and back in a longer length which creates </span><span>an even more elegant and draped fit. Pockets added as requested by popular demand. Perfect with leggings. Relaxed fit. </span><br></p>
+<p><span>Model is 170cm/5.58ft with a 28" waist, wearing a size Medium.</span></p>
+<p>Made in Vancouver, B.C. Canada<strong> <br></strong></p>
+<p><strong>Product Detail:</strong><br>Open front. Long sleeve. Longer length. Relaxed fit. </p>
+<p style="text-align: left;"><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill-resistant</span><br><span>Long-lasting wear</span></p>
+<p style="text-align: left;"><span>[Best washed inside out in cold water. Hang dry or tumble dry on a low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Heather Charcoal / Small</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Heather Charcoal-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Heather Charcoal / Medium</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Heather Charcoal-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Heather Charcoal / Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Heather Charcoal-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Heather Charcoal / Extra Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Heather Charcoal-XL</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Sage / Small</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Sage-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Sage / Medium</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Sage-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Sage / Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Sage-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Sage / Extra Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Sage-XL</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Berry / Small</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Berry-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Berry / Medium</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Berry-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Berry / Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Berry-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Berry / Extra Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Berry-XL</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4871147520079</id>
+    <published>2021-02-15T16:15:08-08:00</published>
+    <updated>2021-02-15T16:15:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/ruby-bamboo-fleece-sweatshirt-longer-version"/>
+    <title>RUBY BAMBOO FLEECE SWEATSHIRT (Extended Length 3&quot; Longer)</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear/Leostar Athletic Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Ruby-Black_4.jpg?v=1619098876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear/Leostar Athletic Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">Ruby is a soft traditional sweatshirt with bamboo fleece lining. Classic design with ribbed crew neckline, cuffs and waistband. Extra warmth with fleece lining. Relaxed fit perfect for cozy layering during the cooler months.<br></p>
+<p style="text-align: left;"><span>The model is 170cm with a 28" waist, wearing a size Medium.</span></p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><b>Product Detail</b><br>Traditional sweatshirt. Bamboo fleece lining. Crew neck. Long sleeves. Relaxed fit.  </p>
+<p><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span><br><span></span></p>
+<p><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>bamboo top</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>comfy</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>relaxed fit</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4871147520079</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>J916N-Ruby-Black-S</s:sku>
+      <s:grams>351</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4871147520079</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>J916N-Ruby-Black-M</s:sku>
+      <s:grams>351</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4871147520079</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>J916N-Ruby-Black-L</s:sku>
+      <s:grams>351</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4871147520079</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>J916N-Ruby-Black-XL</s:sku>
+      <s:grams>351</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4868306927695</id>
+    <published>2021-02-05T01:31:55-08:00</published>
+    <updated>2021-02-05T01:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/pamela-bamboo-basic-tank"/>
+    <title>PAMELA BAMBOO BASIC TANK</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/20210411-DSC04262.jpg?v=1619126014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pamela is ideal for exercise or casual daywear. An excellent classic base layer or wear on its own to show off those toned arms. <br></p>
+<p>Model is 170cm/5.58ft with a 28" waist, wearing a size Medium.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><b>Product Detail:</b><br><span>Scoop neck. Longer body. Slim fit. Racerback.</span><br><br><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill-resistant</span><br><span>Long-lasting wear</span><br><span></span></p>
+<p><span>[Best washed inside out in cold water. Hang dry or tumble dry on a low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>bamboo top</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>mesh back</s:tag>
+    <s:tag>mesh design</s:tag>
+    <s:tag>mesh panel</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>shape fitting</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>strap design</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>tank top</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Maple / Extra Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Maple-XS</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Maple / Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Maple-S</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Maple / Medium</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Maple-M</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Maple / Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Maple-L</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Maple / Extra Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Maple-XL</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Oak / Extra Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Oak-XS</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Oak / Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Oak-S</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Oak / Medium</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Oak-M</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Oak / Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Oak-L</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Oak / Extra Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Oak-XL</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Black / Extra Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Black-XS</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Black-S</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Black-M</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Black-L</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868306927695</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>J2101-Pamela-Black-XL</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4868294246479</id>
+    <published>2021-02-05T00:57:17-08:00</published>
+    <updated>2021-02-05T00:57:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/jessica-bamboo-basic-tee"/>
+    <title>JESSICA BAMBOO BASIC TEE (Ultra Soft)</title>
+    <s:type>Bamboo shirt</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Jessica-RoseBrwon_4.jpg?v=1619126263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo shirt<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jessica is a classic girly t-shirt. Shorter and more fitted. Size up for a more relaxed fit or wear true to size for a more feminine look. </p>
+<p>Model is 170cm/5.58ft with a 28" waist, wearing a size Medium. <br></p>
+<p style="text-align: left;">MADE IN VANCOUVER, B.C. CANADA<br></p>
+<p style="text-align: left;"><b>Product Detail</b><br><span>Round neck. Short length. Fitted. </span><br><b></b></p>
+<p style="text-align: left;"><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill-resistant</span><br><span>Long-lasting wear</span></p>
+<p>[Best washed inside out in cold water. Hang dry or tumble dry on a low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>bamboo</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>crop top</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gym wear</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Rose Brown / Small</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Rose Brown-S</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Rose Brown / Medium</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Rose Brown-M</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Rose Brown / Large</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Rose Brown-L</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Rose Brown / Extra Large</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Rose Brown-XL</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Turqoise / Small</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Turqoise-S</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Turqoise / Medium</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Turqoise-M</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Turqoise / Large</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Turqoise-L</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Turqoise / Extra Large</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Turqoise-XL</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Black-S</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Black-M</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Black-L</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Black-XL</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Oak / Small</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Oak-S</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Oak / Medium</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Oak-M</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Oak / Large</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Oak-L</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868294246479</id>
+      <title>Oak / Extra Large</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>J2102-Jessica-Oak-XL</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4868290609231</id>
+    <published>2021-02-05T00:28:33-08:00</published>
+    <updated>2021-02-05T00:28:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/persia-bamboo-capris-ultra-high-waisted"/>
+    <title>PERSIA BAMBOO CAPRIS (ULTRA HIGH-WAISTED)</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Persia-Charcoal_4.jpg?v=1619703412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">Persia is a flirty harem pant. Made in bamboo with a wide waistband. The 3/4 pant length and cuffed pant legs allow you wear it lower or higher and adjust according to your preference or activity. Get ready to play!<br></p>
+<p style="text-align: left;">Model is 170cm/5.58ft with a 28" waist, wearing a size Medium.</p>
+<p style="text-align: left;">MADE IN VANCOUVER, B.C. CANADA</p>
+<p style="text-align: left;"><strong>Product Detail:</strong><br>Harem style. Cuffed bottoms. Wide comfortable waistband. Comfort fit. <span data-mce-fragment="1">Inseam approximately 21~22 inches</span></p>
+<p style="text-align: left;"><strong>Rayon from Bamboo, Cotton and Spandex</strong><br> Soft and luxurious texture<br> Breathable fabric<br> Naturally antibacterial<br> Moisture-wicking<br> Cling and pill-resistant<br> Long-lasting wear<br> <br> <span></span></p>
+<p style="text-align: left;">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo pants</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>capris</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>comfy</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>cuffed pants</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>harem pants</s:tag>
+    <s:tag>loungewear</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>medium rise</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pocket</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:tag>yoga pant</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868290609231</id>
+      <title>Heather Charcoal / Small</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>VB053-Persia-Heather Charcoal-S</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868290609231</id>
+      <title>Heather Charcoal / Medium</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>VB053-Persia-Heather Charcoal-M</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868290609231</id>
+      <title>Heather Charcoal / Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>VB053-Persia-Heather Charcoal-L</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868290609231</id>
+      <title>Heather Charcoal / Extra Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>VB053-Persia-Heather Charcoal-XL</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868290609231</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>VB053-Persia-Black-S</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868290609231</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>VB053-Persia-Black-M</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868290609231</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>VB053-Persia-Black-L</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868290609231</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>VB053-Persia-Black-XL</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4868289953871</id>
+    <published>2021-02-05T00:11:23-08:00</published>
+    <updated>2021-02-05T00:11:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/rosia-bamboo-pant-new-version"/>
+    <title>ROSIA BAMBOO JOGGER (ULTRA HIGH-WAISTED)</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/NewRosia-HeatherCharcoal_2.jpg?v=1620400635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">Rosia is a longer version of the popular Persia Capri. Very comfortable with a wide waistband and cuffed bottoms. The full length to the ankle offers a longer length and additional warmth. Relaxed fit. Perfect for indoor and outdoor activities and the length is adjustable for a variety of different looks.<br></p>
+<p style="text-align: left;">Model is 170cm/5.58ft with a 28" waist, wearing a size Medium.</p>
+<p style="text-align: left;">MADE IN VANCOUVER, B.C. CANADA</p>
+<p style="text-align: left;"><strong>Product Detail:</strong><br>Full length. Cuffed bottoms. Wide comfortable waistband. Relaxed fit. Inseam approximately 29 inches.</p>
+<p style="text-align: left;"><strong>Rayon from Bamboo, Cotton and Spandex</strong><br> Soft and luxurious texture<br> Breathable fabric<br> Naturally antibacterial<br> Moisture-wicking<br> Cling and pill-resistant<br> Long-lasting wear<br></p>
+<p style="text-align: left;">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfort fit</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>cuffed pants</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>wide waistband</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:tag>yoga pant</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868289953871</id>
+      <title>Heather Charcoal / Small</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB053L-Rosia-Heather Charcoal-S</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868289953871</id>
+      <title>Heather Charcoal / Medium</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB053L-Rosia-Heather Charcoal-M</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868289953871</id>
+      <title>Heather Charcoal / Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB053L-Rosia-Heather Charcoal-L</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868289953871</id>
+      <title>Heather Charcoal / Extra Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB053L-Rosia-Heather Charcoal-XL</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868289953871</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB053L-Rosia-Black-S</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868289953871</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB053L-Rosia-Black-M</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868289953871</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB053L-Rosia-Black-L</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4868289953871</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB053L-Rosia-Black-XL</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4849945837647</id>
+    <published>2020-12-28T17:16:14-08:00</published>
+    <updated>2020-12-28T17:16:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/fiona-bamboo-top-new-version"/>
+    <title>FIONA BAMBOO TOP (New Version)</title>
+    <s:type>Bamboo shirt</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Fiona-Burgundy_1.jpg?v=1619098856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo shirt<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Model is 5'8/175cm with a 28" waist, wearing a size Small. (If in between sizes, we suggest to size down)</span></p>
+<p>Fiona is a long sleeved version of the ever popular Fanny. Same unique shape that can be worn forwards and backwards for a fun off-shouldered look. The wider body and narrow bottom with asymmetrical hem line. Bat-wing long sleeves compliment the wide neckline for a relaxed fit.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p style="text-align: left;"><b>Product Detail:</b><br><span>Wear forwards or backwards. Draped body and narrow bottom. Asymmetrical hem line. Bat-wing style long sleeves and wide neckline. Relaxed fit. </span><br><b></b></p>
+<p style="text-align: left;"><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span></p>
+<p style="text-align: left;"><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>bamboo top</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>bat wing</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>chic</s:tag>
+    <s:tag>city chic</s:tag>
+    <s:tag>comfort fit</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>comfy</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>draped body</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>every day</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>loose fitting</s:tag>
+    <s:tag>loungewear</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>relaxed fit</s:tag>
+    <s:tag>short sleeves</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>stylish</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>versatile</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Burgundy / Extra Small</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Burgundy-XS</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Burgundy / Small</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Burgundy-S</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Burgundy / Medium</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Burgundy-M</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Burgundy / Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Burgundy-L</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Burgundy / Extra Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Burgundy-XL</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Sage / Small</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Sage-S</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Sage / Medium</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Sage-M</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Sage / Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Sage-L</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Sage / Extra Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Sage-XL</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Black / Extra Small</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Black-XS</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Black-S</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Black-M</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Black-L</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4849945837647</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>R334L-Fiona-Black-XL</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4826667286607</id>
+    <published>2020-11-06T14:47:08-08:00</published>
+    <updated>2020-11-06T14:47:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/bamboo-fleece-oversize-hoodie"/>
+    <title>THE BOYFRIEND BAMBOO FLEECE HOODIE-Restocked</title>
+    <s:type>Bamboo long sleeves</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Boyfriend-HLGrey_1.jpg?v=1627348819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo long sleeves<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Boyfriend Fleece Hoodie is the perfect classic hoodie. Oversized for the most comfortable fit and made from warm bamboo fleece. Playful kangaroo pocket to keep hands warm. Your boyfriend's actual hoodie is safe because this one is so much better. <br></p>
+<p data-mce-fragment="1">Model is 5'6/170cm with a 26" waist, wearing a size S/M.</p>
+<p data-mce-fragment="1">MADE IN VANCOUVER, B.C. CANADA</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Product Detail</b><br data-mce-fragment="1">Hooded pullover. Bamboo fleece lining. Oversized. Kangaroo pocket. Relaxed fit. </p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Rayon from Bamboo, Cotton and Spandex</b><br data-mce-fragment="1"><span data-mce-fragment="1">Soft and luxurious</span><br data-mce-fragment="1"><span data-mce-fragment="1">Breathable fabric</span><br data-mce-fragment="1"><span data-mce-fragment="1">Naturally antibacterial</span><br data-mce-fragment="1"><span data-mce-fragment="1">Moisture-wicking</span><br data-mce-fragment="1"><span data-mce-fragment="1">Cling and pill resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">Long lasting wear</span><br data-mce-fragment="1"><span data-mce-fragment="1"></span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>pocket</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826667286607</id>
+      <title>Heather Light Grey / Small/Medium</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>R337-BF Oversize Hoodie-H L Grey-S/M</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826667286607</id>
+      <title>Heather Light Grey / Large/Extra Large</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>R337-BF Oversize Hoodie-H L Grey-L/XL</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826667286607</id>
+      <title>Heather Charcoal / Small/Medium</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>R337-BF Oversize Hoodie-Heather Charcoal-S/M</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826667286607</id>
+      <title>Heather Charcoal / Large/Extra Large</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>R337-BF Oversize Hoodie-Heather Charcoal-L/XL</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826667286607</id>
+      <title>Black / Small/Medium</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>R337-BF Oversize Hoodie-Black-S/M</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826667286607</id>
+      <title>Black / Large/Extra Large</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>R337-BF Oversize Hoodie-Black-L/XL</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4826634518607</id>
+    <published>2020-11-06T14:25:29-08:00</published>
+    <updated>2020-11-06T14:25:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/bamboo-circle-scarf-1"/>
+    <title>BAMBOO CIRCLE SCARF</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/CircleScarf-Berry_2.jpg?v=1626735549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bamboo Circle Scarf - The perfect all seasons accessory. Complete any outfit with the soft and stylish knit Infinity Scarf featuring a double-layer infinity loop and different knitted yarns available for a variety of textures and thickness.  </span></p>
+<p data-mce-fragment="1">MADE IN VANCOUVER, B.C. CANADA<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Product Detail:</b><br data-mce-fragment="1">Bamboo fabric. Infinity style. Circle scarf. <br data-mce-fragment="1"><br data-mce-fragment="1"><b data-mce-fragment="1">Rayon from Bamboo, Cotton and Spandex</b><br data-mce-fragment="1"><span data-mce-fragment="1">Soft and luxurious</span><br data-mce-fragment="1"><span data-mce-fragment="1">Breathable fabric</span><br data-mce-fragment="1"><span data-mce-fragment="1">Naturally antibacterial</span><br data-mce-fragment="1"><span data-mce-fragment="1">Moisture-wicking</span><br data-mce-fragment="1"><span data-mce-fragment="1">Cling and pill resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">Long lasting wear</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826634518607</id>
+      <title>Burgundy / One Size</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>R339-Bamboo Circle Scarf-Burgundy</s:sku>
+      <s:grams>208</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826634518607</id>
+      <title>Sage / One Size</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>R339-Bamboo Circle Scarf-Sage</s:sku>
+      <s:grams>208</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826634518607</id>
+      <title>Black / One Size</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>R339-Bamboo Circle Scarf-Black</s:sku>
+      <s:grams>208</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4826634518607</id>
+      <title>Heather Charcoal / One Size</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>R339-Bamboo Circle Scarf-Heather Charcoal</s:sku>
+      <s:grams>208</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4825374621775</id>
+    <published>2020-11-04T13:00:08-08:00</published>
+    <updated>2020-11-04T13:00:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/paulina-bamboo-fleece-pullover"/>
+    <title>PAULINA BAMBOO FLEECE PULLOVER</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Paulina-RosePink_2.jpg?v=1613050177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paulina is a hooded pullover lined with bamboo fleece. Cozy with long batwing sleeves. Kangaroo pocket for a playful twist. Be extra warm and cute during the cooler months. Relaxed fit. <br></p>
+<p>Model is 5'6/170cm with a 26" waist, wearing a size XS.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><b>Product Detail</b><br>Hooded pullover. Bamboo fleece lining. Batwing sleeves. Kangaroo pocket. Relaxed fit.  </p>
+<p><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill-resistant</span><br><span>Long-lasting wear</span><br><span></span></p>
+<br>
+<p><span>[Best washed inside out in cold water. Hang dry or tumble dry on a low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>bamboo top</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>bat wing</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>fall</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>fleece lining</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>kangaroo pocket</s:tag>
+    <s:tag>long sleeves</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pocket</s:tag>
+    <s:tag>Pullover</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>relaxed fit</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>Warm</s:tag>
+    <s:tag>winter</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Rose Pink / Extra Small</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Rose Pink-XS</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Rose Pink / Small</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Rose Pink-S</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Rose Pink / Medium</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Rose Pink-M</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Rose Pink / Large</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Rose Pink-L</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Rose Pink / Extra Large</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Rose Pink-XL</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Burgundy / Extra Small</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Burgundy-XS</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Burgundy / Small</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Burgundy-S</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Burgundy / Medium</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Burgundy-M</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Burgundy / Large</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Burgundy-L</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Burgundy / Extra Large</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Burgundy-XL</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Heather Charcoal / Extra Small</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Heather Charcoal-XS</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Heather Charcoal / Small</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Heather Charcoal-S</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Heather Charcoal / Medium</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Heather Charcoal-M</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Heather Charcoal / Large</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Heather Charcoal-L</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4825374621775</id>
+      <title>Heather Charcoal / Extra Large</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>J904N-Paulina-Heather Charcoal-XL</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4799843270735</id>
+    <published>2020-09-28T15:53:28-07:00</published>
+    <updated>2020-09-28T15:53:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/ellie-bamboo-top"/>
+    <title>ELLIE BAMBOO TOP</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Ellie-Burgundy_2.jpg?v=1626904348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ellie is a twist on the classic V neck..literally! A deep V neck and cuffed sleeves come together for a feminine look that is tied together with a playful tie in the front. Perfect way to wear this sweet top.</p>
+<p>Model is 167cm/5.45ft with a 26" waist, wearing a size Extra Small.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><b data-mce-fragment="1">Product Detail:</b><br data-mce-fragment="1">V-neck. Cuffed long sleeves. Tie detail.</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Rayon from Bamboo, Cotton and Spandex</b><br data-mce-fragment="1"><span data-mce-fragment="1">Soft and luxurious</span><br data-mce-fragment="1"><span data-mce-fragment="1">Breathable fabric</span><br data-mce-fragment="1"><span data-mce-fragment="1">Naturally antibacterial</span><br data-mce-fragment="1"><span data-mce-fragment="1">Moisture-wicking</span><br data-mce-fragment="1"><span data-mce-fragment="1">Cling and pill resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">Long lasting wear</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4799843270735</id>
+      <title>Burgundy / Extra Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>J926L-Ellie Top-Burgundy-XS</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4799843270735</id>
+      <title>Burgundy / Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>J926L-Ellie Top-Burgundy-S</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4799843270735</id>
+      <title>Burgundy / Medium</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>J926L-Ellie Top-Burgundy-M</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4799843270735</id>
+      <title>Burgundy / Large</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>J926L-Ellie Top-Burgundy-L</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4799843270735</id>
+      <title>Black / Extra Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>J926L-Ellie Top-Black-XS</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4799843270735</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>J926L-Ellie Top-Black-S</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4799843270735</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>J926L-Ellie Top-Black-M</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4799843270735</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>J926L-Ellie Top-Black-L</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4745149710415</id>
+    <published>2020-07-24T17:18:01-07:00</published>
+    <updated>2020-07-24T17:18:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/celine-palazzo-bamboo-french-terry"/>
+    <title>CELINE PALAZZO BAMBOO FRENCH TERRY(ULTRA HIGH-WAISTED)</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Celine-Black_1.jpg?v=1613050156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celine Palazzo is an ultra high rise full length pant that is perfect to wear to relax and lounge. The high and wide waistband and wide leg ensures a flowing relaxed fit that combines luxury and leisure. <br></p>
+<p>Model is 5'8/175cm with a 27" waist, wearing a size Small. </p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><strong>Product Detail:</strong><br>Ultra high rise. Full length. Wide waistband. Wide leg. Inseam approximately 30 inches.</p>
+<p><strong>Rayon from Bamboo, Cotton and Spandex<br></strong><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span></p>
+<p>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4745149710415</id>
+      <title>Black / Extra Small</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>R347-Celine Palazzo-Black-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4745149710415</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>R347-Celine Palazzo-Black-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4745149710415</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>R347-Celine Palazzo-Black-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4745149710415</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>R347-Celine Palazzo-Black-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4745149710415</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>R347-Celine Palazzo-Black-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4526200160335</id>
+    <published>2020-04-07T13:30:13-07:00</published>
+    <updated>2020-04-07T13:30:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/alena-bamboo-tank"/>
+    <title>ALENA BAMBOO TANK</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Alena-Sage_2.jpg?v=1619142398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Alena is as unique as her name.  Perfect for exercise or casual day-wear. An excellent base layer or wear it on its own to show off the front and back. <br></p>
+<p>Blonde Model is 175cm/5.74ft with a 27" waist, wearing a size Small.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><b>Product Detail:</b><br><span>Scoop neck. Longer body. Slim fit. Mesh back design. Racer back.</span><br><br><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span><br><span></span></p>
+<p><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>bamboo top</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>mesh back</s:tag>
+    <s:tag>mesh design</s:tag>
+    <s:tag>mesh panel</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>shape fitting</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>strap design</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>tank top</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Sage / Extra Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Sage-XS</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Sage / Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Sage-S</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Sage / Medium</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Sage-M</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Sage / Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Sage-L</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Sage / Extra Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Sage-XL</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Black / Extra Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Black-XS</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Black-S</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Black-M</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Black-L</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Black-XL</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Turqoise / Extra Small</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Turqoise-XS</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Turqoise / Medium</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Turqoise-M</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Turqoise / Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Turqoise-L</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4526200160335</id>
+      <title>Turqoise / Extra Large</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>R341-Alena-Turqoise-XL</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4507851653199</id>
+    <published>2020-04-01T23:50:30-07:00</published>
+    <updated>2020-04-01T23:50:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/emma-bamboo-tee"/>
+    <title>EMMA BAMBOO TEE</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Emma-Maple_2.jpg?v=1626904127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Emma Tie-Front bamboo is sweet and chic! </span><span>Inspired by Lucia top, this short sleeve is soft and very flattering shirt for everyday wear. From gym to street.</span><br></p>
+<p><span>Model is 175cm/5.74ft with a 27" waist, wearing a size Small.</span></p>
+<p>MADE IN VANCOUVER, B.C. CANADA<br></p>
+<p><b>Product Detail:</b><br><span>Bamboo fabric.  Relaxed fit. Short sleeve. Round neckline.</span><br><br><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span></p>
+<p><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gym wear</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507851653199</id>
+      <title>Maple / Small</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J926-Emma-Maple-S</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507851653199</id>
+      <title>Maple / Medium</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J926-Emma-Maple-M</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507851653199</id>
+      <title>Maple / Large</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J926-Emma-Maple-L</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507851653199</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J926-Emma-Black-S</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507851653199</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J926-Emma-Black-M</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507851653199</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J926-Emma-Black-L</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507851653199</id>
+      <title>Sage / Small</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J926-Emma-Sage-S</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507851653199</id>
+      <title>Purple / Large</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J926-Emma-Purple-L</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4507847884879</id>
+    <published>2020-04-01T23:50:30-07:00</published>
+    <updated>2020-04-01T23:50:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/tina-bamboo-tee"/>
+    <title>TINA BAMBOO TEE</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Tina-RoseBrown_1_46e78dbb-4baf-4e26-826e-56b41eab47de.jpg?v=1627348700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tina is a traditional v-neck t-shirt. Simple and classic. Short sleeve and longer length for a comfortable relaxed fit.<br></p>
+<p><span>Model is 175cm/5.74ft with a 27" waist, wearing a size Small.</span><br></p>
+<p>MADE IN VANCOUVER, B.C. CANADA<br></p>
+<p><b>Product Detail:</b><br><span>V-neckline. Longer length. Relaxed fit. </span><br><br><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span></p>
+<p><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gym wear</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Rose Brown / Extra Small</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Rose Brown-XS</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Rose Brown / Small</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Rose Brown-S</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Rose Brown / Medium</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Rose Brown-M</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Rose Brown / Large</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Rose Brown-L</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Rose Brown / Extra Large</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Rose Brown-XL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Black / Extra Small</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Black-XS</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Black-S</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Black-M</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Black-L</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4507847884879</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>J923-Tina-Black-XL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4382336155727</id>
+    <published>2019-11-20T14:25:03-08:00</published>
+    <updated>2019-11-20T14:25:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/bianca-blanket-hooded-tunic"/>
+    <title>BIANCA BLANKET HOODED TUNIC</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Bianca-FTGrey_3.jpg?v=1626736030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bianca is a hooded tunic pullover lined with bamboo fleece. As warm as a blanket and meant to be worn on its own or layer over base layer. Pair with tights or jeans and add boots for the perfect winter outfit. The flattering relaxed fit is one size fits all and the front puzzle panel design detail is subtle and unique. <br></p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><b>Product Detail</b></p>
+<p>Hooded tunic. Bamboo fleece lining. Three quarter length bat wing sleeves. Dual pockets. One size fits all.<br></p>
+<p><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span></p>
+<p><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>pocket</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4382336155727</id>
+      <title>Dark Grey/Bamboo French Terry / One Size</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>J921-Bianca-Dark Grey-Bamboo French Terry-OS</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4382336155727</id>
+      <title>Light Grey / One Size</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>J921-Bianca-Light Grey-OS</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4382336155727</id>
+      <title>Black / One Size</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>J921-Bianca-Black-OS</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4380389015631</id>
+    <published>2019-11-19T15:09:26-08:00</published>
+    <updated>2019-11-19T15:09:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/heat-up-bamboo-fleece-legging"/>
+    <title>HEAT UP BAMBOO FLEECE LEGGING (ULTRA HIGH-WAISTED)</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/HeatUp-HCharcoal_4.jpg?v=1613050077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heat Up Bamboo Fleece legging a high rise, full length legging. High rise to sit above the waist. Two discreet but so handy front/side pockets. Side seam with unique seam detail along the pant leg. Slim tight fit. <br></p>
+<p>Model is 5'6/170cm with a 26" waist, wearing a size XS.</p>
+<p>MADE IN VANCOUVER, B.C. CANADA</p>
+<p><strong>Product Detail:</strong><br>High rise. Elastic waist Full length. Two front/side pockets. Side seam. Unique stitching down each side. Slim fit. <span data-mce-fragment="1">Inseam approximately 29 inches.</span><br></p>
+<p><b>Rayon Made from Bamboo</b> <br><span style="line-height: 1.5;">Soft and luxurious </span><br>Breathable fabric <br>Naturally antibacterial <br>Moisture-wicking <br>Cling and pill resistant <br>Long lasting wear</p>
+<p style="text-align: left;">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Heahter Charcoal / Small</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033-Heat Up-Heahter Charcoal-S</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Heahter Charcoal / Medium</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033-Heat Up-Heahter Charcoal-M</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Heahter Charcoal / Large</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033-Heat Up-Heahter Charcoal-L</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Heahter Charcoal / Extra Large</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033-Heat Up-Heahter Charcoal-XL</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Black / Extra Small</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033-Heat Up-black-XS</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Black / Small</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033-Heat Up-black-S</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033-Heat Up-black-M</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Black / Large</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033--Heat Up-black-L</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4380389015631</id>
+      <title>Black / Extra Large</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>VB033-Heat Up-black-XL</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.j76cw.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.j76cw.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.j76cw.com/collections/long-sleeves-jackets.atom"/>
+  <title>J76 Bamboo Wear</title>
+  <updated>2021-07-19T17:22:20-07:00</updated>
+  <author>
+    <name>J76 Bamboo Wear</name>
+  </author>
+  <entry>
+    <id>https://www.j76cw.com/products/6593532985423</id>
+    <published>2021-07-19T17:22:20-07:00</published>
+    <updated>2021-07-19T17:22:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/lynn-bamboo-zip-up-hoodie"/>
+    <title>LYNN BAMBOO CROPPED ZIP-UP HOODIE</title>
+    <s:type>Bamboo Wear</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/20210814-DSC04235.jpg?v=1629533530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Bamboo Wear<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"></span>Lynn is a cropped zip-up hoodie that can be worn as a cover up to the gym or as casual wear. Zipper front and kangaroo pockets. <br></p>
+<div class="product-single__description rte" itemprop="description">
+<p style="text-align: left;">MADE IN VANCOUVER, B.C. CANADA</p>
+<b>Product Detail:</b>
+</div>
+<div class="product-single__description rte" itemprop="description">Zip up hoodie. Zip-up. Long sleeves. Relaxed fit.</div>
+<div class="product-single__description rte" itemprop="description">
+<br>
+<p style="text-align: left;"><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill resistant</span><br><span>Long lasting wear</span><br><span></span></p>
+<p style="text-align: left;"><span>[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>Bamboo cotton</s:tag>
+    <s:tag>Bamboo wear</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>Relax fit</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Bracing Blue / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Bblue-Small</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Bracing Blue / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Bblue-Medium</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Bracing Blue / Large</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Bblue-Large</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Oak / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Oak-Small</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Oak / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Oak-Medium</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Oak / Large</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Oak-Large</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Sakura / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Sakura-Small</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Sakura / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Sakura-Medium</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6593532985423</id>
+      <title>Sakura / Large</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>2015-Lynn-Sakura-Large</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6567428685903</id>
+    <published>2021-05-13T17:03:34-07:00</published>
+    <updated>2021-05-13T17:03:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/cheryl-overshirt"/>
+    <title>CHERYL OVERSHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>J76 Bamboo Wear/Leostar Athletic Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Cheryl-HeatherGrey_3.jpg?v=1626737001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear/Leostar Athletic Wear<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<span data-mce-fragment="1">Cheryl is a classic boyfriend shirt made with thicker material than her sister Mia. Made with cotton and polyester for a more structured fit.</span> Wear unbuttoned or button up. Relaxed fit.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<strong data-mce-fragment="1">Product Detail:</strong><br>
+</div>
+<div data-mce-fragment="1">Boyfriend style. Button down collar shirt. Front pocket. Long sleeves.  Buttons at cuffs. Rounded hem. Relaxed Fit.<br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Polyester 65%</div>
+<div data-mce-fragment="1">Cotton 35%</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Wash it cold, hang to dry or tumble dry low.<br>
+</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Imported.<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567428685903</id>
+      <title>Heather Grey / One Size</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>Cheryl-Heather Greay-One Size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6567426654287</id>
+    <published>2021-05-13T16:47:54-07:00</published>
+    <updated>2021-05-13T16:47:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/botton-up-corduroy-overshirt-one-size"/>
+    <title>MIA CORDUROY OVERSHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>J76 Bamboo Wear/Leostar Athletic Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/ButtonedCorduroy-Grey_1.jpg?v=1626914333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear/Leostar Athletic Wear<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">Mia is a classic boyfriend style shirt which is made with cotton and spandex to stretch. Wear unbuttoned for a more casual look or button up for a tighter fit.  Soft velvet-feel texture. Front pocket. Relaxed fit. </div>
+<div data-mce-fragment="1"><br></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"><strong>Product Detail:</strong></div>
+<div data-mce-fragment="1">Boyfriend style. Button down collar shirt. Front pocket. Long sleeves. Buttons at cuffs. Rounded hem. Relaxed Fit<br>
+</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Cotton 95%</div>
+<div data-mce-fragment="1">Spandex 5%</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Wash it cold, hang to dry or tumble dry low.</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Imported.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corduroy coat</s:tag>
+    <s:tag>corduroy overshirt</s:tag>
+    <s:tag>corduroy shirt</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567426654287</id>
+      <title>Grey / One Size</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>Mia-Grey-One Size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567426654287</id>
+      <title>Black / One Size</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>Mia-Black-One Size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6567426654287</id>
+      <title>Khaki / One Size</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>Mia-Khaki-One Size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6538556637263</id>
+    <published>2021-03-05T15:53:53-08:00</published>
+    <updated>2021-03-05T15:53:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/julia-bamboo-cardigan-new-version"/>
+    <title>JULIA BAMBOO CARDIGAN</title>
+    <s:type>Cardigan</s:type>
+    <s:vendor>J76 Bamboo Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/Julia-HeatherCharcoal_4.jpg?v=1626905800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear<br>
+        <strong>Type: </strong>Cardigan<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Julia is redesigned and back in a longer length which creates </span><span>an even more elegant and draped fit. Pockets added as requested by popular demand. Perfect with leggings. Relaxed fit. </span><br></p>
+<p><span>Model is 170cm/5.58ft with a 28" waist, wearing a size Medium.</span></p>
+<p>Made in Vancouver, B.C. Canada<strong> <br></strong></p>
+<p><strong>Product Detail:</strong><br>Open front. Long sleeve. Longer length. Relaxed fit. </p>
+<p style="text-align: left;"><b>Rayon from Bamboo, Cotton and Spandex</b><br><span>Soft and luxurious</span><br><span>Breathable fabric</span><br><span>Naturally antibacterial</span><br><span>Moisture-wicking</span><br><span>Cling and pill-resistant</span><br><span>Long-lasting wear</span></p>
+<p style="text-align: left;"><span>[Best washed inside out in cold water. Hang dry or tumble dry on a low setting.]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Heather Charcoal / Small</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Heather Charcoal-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Heather Charcoal / Medium</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Heather Charcoal-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Heather Charcoal / Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Heather Charcoal-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Heather Charcoal / Extra Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Heather Charcoal-XL</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Sage / Small</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Sage-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Sage / Medium</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Sage-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Sage / Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Sage-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Sage / Extra Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Sage-XL</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Berry / Small</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Berry-S</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Berry / Medium</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Berry-M</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Berry / Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Berry-L</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6538556637263</id>
+      <title>Berry / Extra Large</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VB003N-Julia-Berry-XL</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/4829186064463</id>
+    <published>2020-11-09T15:53:34-08:00</published>
+    <updated>2020-11-09T15:53:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/holly-jacket"/>
+    <title>HOLLY JACKET</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>J76 Bamboo Wear/Leostar Athletic Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/IMG_9418.jpg?v=1625750583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J76 Bamboo Wear/Leostar Athletic Wear<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">Holly is your ideal fitted athletic hooded jacket. It is slim fitting, tapered to fit right to your body with slimming seam detail and a longer length. The shorter collar allows you to zip right up to the top on those chilly days.  Front zippered pockets lets you keep all those important things safe with you. Four way stretch and great shape retention. Your best athletic jacket.<br></p>
+<p style="text-align: left;">Model is 170cm/5.58ft with a 28" waist, wearing a size Medium.</p>
+<p style="text-align: left;"><span>MADE IN VANCOUVER, B.C. CANADA</span></p>
+<p style="text-align: left;"><strong>Product Detail: </strong>Fitted design. Slim fit. Front zipper. Dual pockets. Seam detail. Longer length.<strong><br></strong></p>
+<p style="text-align: left;"><strong>Nylon Supplex and Spandex</strong></p>
+<p style="text-align: left;">Four way stretch<br> Breathable fabric<br> Moisture wicking<br> Supplex (UPF 40 Sun Protection)<br> Scotchgard 3M (Moisture Management)<br> Cling and Pill Resistant/Shape Retention</p>
+<span data-mce-fragment="1">[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>activewear</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>comfortable</s:tag>
+    <s:tag>durable</s:tag>
+    <s:tag>fashion</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>four way stretch</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>gym wear</s:tag>
+    <s:tag>gymwear</s:tag>
+    <s:tag>ladies</s:tag>
+    <s:tag>lightweight</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>pocket</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4829186064463</id>
+      <title>Rust / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DQ-S2088-Holly Jacket-Rust-S</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4829186064463</id>
+      <title>Rust / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DQ-S2088-Holly Jacket-Rust-M</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4829186064463</id>
+      <title>Rust / Large</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DQ-S2088-Holly Jacket-Rust-L</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4829186064463</id>
+      <title>Indigo / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DQ-S2088-Holly Jacket-Indigo-S</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4829186064463</id>
+      <title>Indigo / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DQ-S2088-Holly Jacket-Indigo-M</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4829186064463</id>
+      <title>Indigo / Large</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DQ-S2088-Holly Jacket-Indigo-L</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4829186064463</id>
+      <title>Camo / Small</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DQ-S2088-Holly Jacket-Camo-S</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/4829186064463</id>
+      <title>Camo / Medium</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DQ-S2088-Holly Jacket-Camo-M</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.j76cw.com/products/6460393153</id>
+    <published>2016-06-02T17:58:00-07:00</published>
+    <updated>2016-06-02T17:58:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.j76cw.com/products/anthurium-jacket"/>
+    <title>ANTHURIUM JACKET</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Leostar Athletic Wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1300/9785/products/20180514-DSC00677-Edit.jpg?v=1617928726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Leostar Athletic Wear<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anthurium is your ideal fitted athletic jacket. It is slim fitting, meaning it is tapered to fit right to your body with slimming seam detail and a longer length. The shorter collar allows you to zip right up to the top on those chilly days.  Front zippered pockets lets you keep all those important things safe with you. The perfect athletic jacket!<br></p>
+<p style="text-align: left;">Model is 5'10/178cm with a 27" waist, wearing a size 2.</p>
+<p style="text-align: left;"><span>MADE IN VANCOUVER, B.C. CANADA</span></p>
+<p style="text-align: left;"><strong>Product Detail: </strong>Fitted design. Slim fit. Front zipper. Dual zippered pockets. Seam detail. Longer length.<strong><br></strong></p>
+<p style="text-align: left;"><strong>Nylon Supplex and Spandex</strong></p>
+<p style="text-align: left;">Four way stretch<br> Breathable fabric<br> Moisture wicking<br> Supplex (UPF 40 Sun Protection)<br> Scotchgard 3M (Moisture Management)<br> Cling and Pill Resistant/Shape Retention</p>
+[Best washed inside out in cold water. Hang dry or tumble dry on low setting.]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way stretch fabric</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>breathable fabric</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>contouring</s:tag>
+    <s:tag>Fitness</s:tag>
+    <s:tag>full zip</s:tag>
+    <s:tag>funnel neck</s:tag>
+    <s:tag>gym wear</s:tag>
+    <s:tag>heat resistant</s:tag>
+    <s:tag>high collar</s:tag>
+    <s:tag>high neck</s:tag>
+    <s:tag>jacket</s:tag>
+    <s:tag>light weight</s:tag>
+    <s:tag>made in Canada</s:tag>
+    <s:tag>moisture wicking</s:tag>
+    <s:tag>performance wear</s:tag>
+    <s:tag>Running</s:tag>
+    <s:tag>slimming</s:tag>
+    <s:tag>stretchy</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>womens</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6460393153</id>
+      <title>Black / 2/XS</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>2015-Black-2</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6460393153</id>
+      <title>Black / 4/S</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>2015-Black-4</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6460393153</id>
+      <title>Black / 6/M</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>2015-Black-6</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6460393153</id>
+      <title>Black / 8/L</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>2015-Black-8</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6460393153</id>
+      <title>Black / 10/XL</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>2015-Black-10</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6460393153</id>
+      <title>Black / 12/XXL</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>2015-Black-12</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.j76cw.com/products/6460393153</id>
+      <title>Black / 14/XXXL</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>2015-Black-14</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+</feed>
